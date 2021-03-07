@@ -12,6 +12,6 @@ ________________________________________________________________________________
 
 | Title   |      Description      |  Link |
 |----------|:-------------:|-------|
-| Hotel Matching |  Uses FuzzyWuzzy to match Expedia & Booking.com data | Link |
+| Hotel Matching |  Uses FuzzyWuzzy to match Expedia & Booking.com data | [Link] (https://github.com/criperc/Data-Wrangling/tree/main/Fuzzy%20Matching/FuzzyWuzzy%20Package) |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
