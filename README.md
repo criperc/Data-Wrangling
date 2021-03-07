@@ -12,6 +12,6 @@ ________________________________________________________________________________
 
 | Title   |      Description      |  Link |
 |----------|:-------------:|-------|
-| Matching Hotel Rooms |  Uses FuzzyMatch to match Expedia & Booking.com data | Link |
+| Hotel Room Matching |  Uses FuzzyWuzzy to match Expedia & Booking.com data | Link |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
