@@ -7,8 +7,8 @@ ________________________________________________________________________________
   <li> Fuzzy Matching </li>
 </ol>
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| Title   |      Description      |  Link |
+|----------|:-------------:|-------|
+| Matching Hotel Rooms |  Uses FuzzyMatch to match Expedia & Booking.com data | Link |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
