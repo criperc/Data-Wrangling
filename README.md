@@ -1,2 +1,8 @@
 # Data-Wrangling
-Focused on dealing with data prior to importing to a ML model
+Collection of useful tools and techniques aimed at dealing with the cleaning and preparing data to be used for a machine learning model or visualization. 
+
+### Contents
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<ol>
+  <li> Fuzzy Matching </li>
+</ol>
