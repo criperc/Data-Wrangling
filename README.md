@@ -1,5 +1,6 @@
-# Data Wrangling
-Collection of useful tools and techniques aimed at dealing with the cleaning and preparing data to be used for a machine learning model or visualization. 
+# AI & Data Analytics
+AI includes Machine Learning (ML), Natural Language Processing (NLP) and Neural Networks.
+Data Analytics includes Data Wrangling, Data Engineering, Data Bases and Visualization. 
 
 ### Contents
 ________________________________________________________________________________________________________________________________________________________________________________
