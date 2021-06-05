@@ -1,6 +1,8 @@
 # AI & Data Analytics
-AI includes Machine Learning (ML), Natural Language Processing (NLP) and Neural Networks.
-Data Analytics includes Data Wrangling, Data Engineering, Data Bases and Visualization. 
+<ol>
+  <li> AI includes Machine Learning (ML), Natural Language Processing (NLP) and Neural Networks.
+  <li> Data Analytics includes Data Wrangling, Data Engineering, Data Bases and Visualization. 
+</ol>
 
 ### Contents
 ________________________________________________________________________________________________________________________________________________________________________________
