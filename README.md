@@ -1,5 +1,8 @@
 # Artificial Intelligence Repository
-Contents:
+AI is an umbrella for many technologies and capabilities. As part of my learning journey, I will try to cover all of them.
+For Data Engineering, visit my other repository here. 
+
+### Contents:
 <ol>
   <li> Predictive Analytics
   <li> Machine Learning
@@ -12,4 +15,4 @@ Contents:
   <li> Deep Learning
 </ol>
 
-As part of my learning journey, I will try to cover all technologies and capabilities.
+
