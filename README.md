@@ -15,4 +15,9 @@ For Data Engineering, visit my other repository here.
   <li> Deep Learning
 </ol>
 
-
+## Learning:
+<ol>
+  <li> Deloitte - AI Fundamentals
+  <li> NVIDIA certification
+  <li> Google Cloud Platform - Machine Learning Engineer
+</ol>
