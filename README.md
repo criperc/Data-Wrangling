@@ -1,5 +1,5 @@
 # Artificial Intelligence Repository
-AI is an umbrella of many technologies, some AI technologies and capabilities are:
+Contents:
 <ol>
   <li> Predictive Analytics
   <li> Machine Learning
@@ -12,3 +12,4 @@ AI is an umbrella of many technologies, some AI technologies and capabilities ar
   <li> Deep Learning
 </ol>
 
+As part of my learning journey, I will try to cover all technologies and capabilities.
